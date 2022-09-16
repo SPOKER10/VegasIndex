@@ -5,5 +5,5 @@
 
 <hr>
 
-# [Based on Start Bootstrap - Agency]
+# [Based on Bootstrap / jQuery / MySQL]
 # [Made for LinkMania Community by SPOKER10 (<a href="https://www.mihai-gabriel.ro/" target="_blank">Mihai Gabriel</a>)
